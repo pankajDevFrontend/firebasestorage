@@ -1,0 +1,85 @@
+<resources>
+
+
+
+    <!-->@@@@@@@@@@ All Dimension @@@@@@@@@@-->
+    <dimen name="_0">0dip</dimen>
+    <dimen name="_0.5">0.5dip</dimen>
+    <dimen name="_1">1dip</dimen>
+    <dimen name="_2">2dip</dimen>
+    <dimen name="_3">3dip</dimen>
+    <dimen name="_4">4dip</dimen>
+    <dimen name="_5">5dip</dimen>
+    <dimen name="_8">8dip</dimen>
+    <dimen name="_8_minus">-8dip</dimen>
+    <dimen name="_10">10dip</dimen>
+    <dimen name="_10_minus">-10dip</dimen>
+    <dimen name="_13">13dip</dimen>
+    <dimen name="_14">14dip</dimen>
+    <dimen name="_15">15dip</dimen>
+    <dimen name="_15_minus">-15dip</dimen>
+    <dimen name="_20">20dip</dimen>
+    <dimen name="_20_minus">-20dip</dimen>
+    <dimen name="_25">25dip</dimen>
+    <dimen name="_25_minus">-25dip</dimen>
+    <dimen name="_30">30dip</dimen>
+    <dimen name="_35">35dip</dimen>
+    <dimen name="_35_minus">-35dip</dimen>
+    <dimen name="_40">40dip</dimen>
+    <dimen name="_45">45dip</dimen>
+    <dimen name="_50">50dip</dimen>
+    <dimen name="_55">55dip</dimen>
+    <dimen name="_59">59dip</dimen>
+    <dimen name="_60">60dip</dimen>
+    <dimen name="_64">64dip</dimen>
+    <dimen name="_65">65dip</dimen>
+    <dimen name="_70">70dip</dimen>
+    <dimen name="_75">75dip</dimen>
+    <dimen name="_80">80dip</dimen>
+    <dimen name="_85">85dip</dimen>
+    <dimen name="_90">90dip</dimen>
+    <dimen name="_95">95dip</dimen>
+    <dimen name="_100">100dip</dimen>
+    <dimen name="_110">110dip</dimen>
+    <dimen name="_120">120dip</dimen>
+    <dimen name="_150">150dip</dimen>
+    <dimen name="_180">180dip</dimen>
+    <dimen name="_200">200dip</dimen>
+    <dimen name="_240">240dip</dimen>
+    <dimen name="_250">250dip</dimen>
+    <dimen name="_280">280dip</dimen>
+    <dimen name="_300">300dip</dimen>
+    <dimen name="_350">350dip</dimen>
+    <dimen name="_400">400dip</dimen>
+    <dimen name="_450">450dip</dimen>
+    <dimen name="_500">500dip</dimen>
+
+
+    <!-->@@@@@@@@@@ All Text @@@@@@@@@@-->
+    <dimen name="_0_text">0sp</dimen>
+    <dimen name="_10_text">10sp</dimen>
+    <dimen name="_10.56_text">10.56sp</dimen>
+    <dimen name="_11.50_text">11.50sp</dimen>
+    <dimen name="_11.52_text">11.52sp</dimen>
+    <dimen name="_11.53_text">11.53sp</dimen>
+    <dimen name="_11.55_text">11.55sp</dimen>
+    <dimen name="_12_text">12sp</dimen>
+    <dimen name="_12.01_text">12.01sp</dimen>
+    <dimen name="_12.05_text">12.05sp</dimen>
+    <dimen name="_12.47_text">12.47sp</dimen>
+    <dimen name="_12.48_text">12.48sp</dimen>
+    <dimen name="_13_text">13sp</dimen>
+    <dimen name="_13.45_text">13.45sp</dimen>
+    <dimen name="_14.40_text">14.40sp</dimen>
+    <dimen name="_14.44_text">14.44sp</dimen>
+    <dimen name="_16.32_text">16.32sp</dimen>
+    <dimen name="_17.30_text">17.30sp</dimen>
+    <dimen name="_17.29_text">17.29sp</dimen>
+    <dimen name="_18_text">18sp</dimen>
+    <dimen name="_19.20_text">19.20sp</dimen>
+    <dimen name="_21.13_text">21.13sp</dimen>
+    <dimen name="_23.05_text">23.05sp</dimen>
+    <dimen name="_72.00_text">72.00sp</dimen>
+    <dimen name="_60_text">60sp</dimen>
+
+</resources>
