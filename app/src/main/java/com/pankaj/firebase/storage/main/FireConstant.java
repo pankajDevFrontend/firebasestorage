@@ -7,6 +7,6 @@ package com.pankaj.firebase.storage.main;
 
 public class FireConstant {
 
-    public static final String fireDatabaseServer = "gs://fir-storage-6af98.appspot.com/images";
+    public static final String fireDatabaseServer = "your firedatabase path";
     public static final String databaseRefrence = "User";
 }

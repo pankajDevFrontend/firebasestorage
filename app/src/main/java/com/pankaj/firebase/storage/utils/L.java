@@ -18,20 +18,10 @@ import com.pankaj.firebase.storage.R;
 
 public class L {
 
-    public static String TAG = "Election 2017 :-->";
+    public static String TAG = "Fire Demo:-->";
     public static Dialog dialogOkAlert;
 
-    public static boolean isNetworkAvailable(Context mContext) {
-        ConnectivityManager connectivityManager
-                = (ConnectivityManager) mContext.getSystemService(Context.CONNECTIVITY_SERVICE);
-        NetworkInfo activeNetworkInfo = connectivityManager.getActiveNetworkInfo();
-        return activeNetworkInfo != null && activeNetworkInfo.isConnected();
-    }
 
-    public static void print(String msg) {
-        if (BuildConfig.DEBUG)
-            Log.d(TAG, msg);
-    }
 
     /* Hide/Show General OK Alert Dialog */
     public static void generalOkAlert(final Context context, String message) {
