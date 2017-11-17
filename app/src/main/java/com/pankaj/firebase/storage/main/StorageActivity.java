@@ -150,6 +150,7 @@ public class StorageActivity extends AppCompatActivity {
                 Uri downloadUrl = taskSnapshot.getDownloadUrl();
                 progressBar.setVisibility(View.GONE);
                 Toast.makeText(StorageActivity.this, downloadUrl.toString(), Toast.LENGTH_LONG).show();
+                Toast.makeText(StorageActivity.this, "Image uploaded successfully.", Toast.LENGTH_LONG).show();
             }
         });
     }
